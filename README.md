@@ -8,6 +8,8 @@
 3.Tou can add your title and content as well
 
 # How to Run
- i. Clone this repo
+ i. Clone this repo 
+ 
 ii. run commond 'npm install'
+
 iii. run 'npm start'
