@@ -5,7 +5,7 @@
 
 1. You can add your things to store
 2. you can delete when ever you want
-3.Tou can add your title and content as well
+4.Tou can add your title and content as well
 
 # How to Run
  i. Clone this repo 
